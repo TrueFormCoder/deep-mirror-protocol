@@ -4,12 +4,13 @@ Deep Mirror Protocol is a framework for identifying and articulating patterns of
 
 This repository contains the canonical essays and protocol artifacts for the project.
 
-## What This Is
+## Scope
 
+The work here focuses on:
 - Narrative pattern analysis
 - Cross-case synthesis
 - Structural interpretation of observable behavior
-- Focus on systems, not individuals
+- Systems-level dynamics rather than individual diagnosis
 
 ## What This Is Not
 
@@ -18,14 +19,14 @@ This repository contains the canonical essays and protocol artifacts for the pro
 - Not coaching
 - Not self-help content
 
-The work here is descriptive, not prescriptive.
+Nothing in this repository is prescriptive. The goal is clarity, not correction.
 
 ## Contents
 
-- Canonical essays (HTML)
-- Method notes
+- Canonical essays (static HTML)
+- Method and scope notes
 - Protocol definitions
-- Series publications (e.g. *The Cold Exit*)
+- Pattern series (e.g. *The Cold Exit*)
 
 ## Publishing Model
 
@@ -33,8 +34,9 @@ The canonical source of truth lives at:
 
 https://deepmirrorprotocol.com
 
-This repository is deployed via Cloudflare Pages.  
-Distribution copies may appear on Substack, Medium, or LinkedIn, but the website is authoritative.
+This repository is deployed via Cloudflare Pages.
+
+Distribution copies may appear on Substack, Medium, or LinkedIn, but the website remains authoritative.
 
 ## License
 
